@@ -1,5 +1,5 @@
-### Hi there 👋
 
+won98/README.md
 <!--
 **won98/won98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![HTML5](https://img.shields.io/github/issues/won98/won98)
-![JavaScript](https://img.shields.io/badge/JavaScript-%20-orange)
-![NodeJs](https://img.shields.io/badge/Node%20Js-#F7DF1E-yellowgreen)
-![DOCKER](https://img.shields.io/badge/Docker-%20-blue)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
