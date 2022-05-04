@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![HTML5](https://img.shields.io/github/issues/won98/won98)
+![JavaScript](https://img.shields.io/badge/JavaScript-%20-orange)
+![NodeJs](https://img.shields.io/badge/Node%20Js-%20-yellowgreen)
+![DOCKER](https://img.shields.io/badge/Docker-%20-blue)
